@@ -6,3 +6,7 @@ install
 \bin\vscode
 
 \bin\maven
+
+connect *.sh
+git-cmd.exe
+
