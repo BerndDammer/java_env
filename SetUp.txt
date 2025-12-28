@@ -1,0 +1,8 @@
+create 
+\bin
+install
+\bin\git	
+	
+\bin\vscode
+
+\bin\maven
